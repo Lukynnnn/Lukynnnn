@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukynnnn&label=Profile%20views&color=0e75b6&style=flat" alt="lukynnnn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/m0lc1k" target="blank"><img src="https://img.shields.io/twitter/follow/m0lc1k?logo=twitter&style=for-the-badge" alt="m0lc1k" /></a> </p>
 
 - 🔭 I’m currently working on [AWRP](https://awrp.cz)
 

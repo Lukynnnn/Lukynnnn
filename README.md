@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **molcak2@seznam.cz**
 
-- 📖 Citation **„Mějte dobrou náladu. Dobrá nálada sice vaše problémy nevyřeší, ale naštve tolik lidí kolem, že stojí za to si ji užít." - Jan Werich**
+- 📖 Citation **"Be of good cheer. A good mood may not solve your problems, but it pisses off so many people around you that it's worth enjoying." - Jan Werich**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

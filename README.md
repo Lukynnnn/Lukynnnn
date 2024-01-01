@@ -75,6 +75,7 @@
 
 <br clear="both">
 
+<!--<img src="https://raw.githubusercontent.com/Lukynnnn/Lukynnnn/output/snake.svg" alt="Snake animation" />-->
 <img src="https://raw.githubusercontent.com/Lukynnnn/Lukynnnn/snake.svg" alt="Snake animation" />
 
 ###

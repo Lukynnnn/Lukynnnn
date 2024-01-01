@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Lucas and I'm a programmer 👨🏻‍💻, from Czech Republic 🇨🇿</h3>
+<h2 align="left">Hi 👋! My name is Lucas and I'm a programmer 👨🏻‍💻, from Czech Republic 🇨🇿</h2>
 
 ###
 
